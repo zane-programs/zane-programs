@@ -1,6 +1,6 @@
 ## hey
 
-i'm zane.
+i'm [zane](https://zanestjohn.com).
 
 ## contact me
 
